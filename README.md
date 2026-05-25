@@ -27,7 +27,7 @@ An advanced, AI-driven spaced-repetition system designed for memorizing the Qura
 
 ## 📂 Project Structure
 
-- `SP24_BCS_126_UMER_FRAZ_AHMED_Assignment_4.ipynb`: The main notebook containing the full pipeline, from mock data generation to EDA, feature engineering, NLP preprocessing, perception pipeline, and tajweed scoring.
+- `Project.ipynb`: The main notebook containing the full pipeline, from mock data generation to EDA, feature engineering, NLP preprocessing, perception pipeline, and tajweed scoring.
 - `hifz_agent.ipynb`: Secondary agent experimentation.
 
 ## 📊 Evaluation & EDA
